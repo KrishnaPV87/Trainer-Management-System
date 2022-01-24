@@ -5,6 +5,7 @@ public class JavaTrainer implements Trainer {
 	private int id;
 	private String name;
 	private int experience;
+	private String isVerifiedProfile;
 
 	String eligibility;
 
