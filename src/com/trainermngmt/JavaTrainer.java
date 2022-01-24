@@ -57,4 +57,5 @@ public class JavaTrainer implements Trainer {
 		return eligibility;
 	}
 
+	//new comment is added to the source file
 }
